@@ -11,7 +11,7 @@ import concurrent.futures
 import threading
 import json
 
-CONFIG_FILE = '/etc/fgdns.config'  # Configuration file path
+CONFIG_FILE = '/etc/dns.config'  # Configuration file path
 LISTEN_ADDR = '0.0.0.0'            # Bind to all interfaces
 LISTEN_PORT = 53                   # Standard DNS port
 ADMIN_PORT = 5353                  # Admin TCP port (localhost only)
