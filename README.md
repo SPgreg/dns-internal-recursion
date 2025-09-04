@@ -18,8 +18,8 @@ A lightweight DNS proxy daemon that forwards DNS queries to multiple upstream se
 ## Installation
 1. **Clone the Repository**:
    ```bash
-   git clone <your-repo-url>
-   cd <your-repo-name>
+   git clone https://github.com/SPgreg/dns-internal-recursion.git
+   cd dns-internal-recursion
    ```
 
 2. **Install Dependencies**:
