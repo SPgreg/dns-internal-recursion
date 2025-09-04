@@ -131,5 +131,5 @@ A lightweight DNS proxy daemon that forwards DNS queries to multiple upstream se
 - Check logs (`--debug`) for errors or unexpected upstream behavior.
 
 ## License
-MIT License (or specify your preferred license).
+MIT License 
 
